@@ -1,19 +1,24 @@
 {
   "name": "covert-html-pdf-js",
   "version": "1.0.0",
-  "description": "Converting Video to MP3 with JS Node",
+  "description": "Converting PDF to HTML with JS Node, React, Vue, Angular Etc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "converter",
-    "video"
+    "pdf",
+    "html",
+    "node",
+    "react",
+    "htmlpdf"
   ],
   "author": "zidniryi",
   "license": "MIT",
+  "homepage": "https://github.com/zidniryi/covert-html-pdf-js#readme",
   "dependencies": {
-    "handlebars": "^4.7.7",
-    "puppeteer": "^10.4.0"
+    "handlebars": "4.7.7",
+    "puppeteer": "10.4.0"
   }
 }
