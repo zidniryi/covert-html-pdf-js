@@ -4,6 +4,10 @@
 
 `yarn add covert-html-pdf-js`
 
+or
+
+`npm i covert-html-pdf-js`
+
 ## How To Use
 
 ```
