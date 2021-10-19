@@ -1,6 +1,6 @@
 {
   "name": "covert-html-pdf-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converting PDF to HTML with JS Node, React, Vue, Angular Etc",
   "main": "index.js",
   "scripts": {

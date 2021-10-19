@@ -6,12 +6,12 @@
 
 or
 
-`npm i covert-html-pdf-js`
+`npm i v`
 
 ## How To Use
 
 ```
-const { convertHtmlToPdf } = require('covert-html-pdf');
+const { convertHtmlToPdf } = require('covert-html-pdf-js');
 
 // Your path html
 // Your output name file
